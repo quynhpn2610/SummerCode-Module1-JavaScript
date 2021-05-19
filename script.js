@@ -1,15 +1,3 @@
-/*
-function changeContent() {
-    document.getElementById('greeetings').innerHTML = "Hello Ton Tin Tun";
-}
-
-function sum() {
-    let a = parseInt(prompt("Nhap vao so thu nhat")); // Integer.parseInt(sc.nextLine("Nhap so"))
-    let b = parseInt(prompt("Nhap vao so thu hai"));
-    alert(a+b);
-}
-*/
-
 // Hien thi ket qua su dung ham alert()
 function showMessage(){
     alert("Xin chao!");
